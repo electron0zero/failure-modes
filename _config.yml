@@ -27,13 +27,14 @@ url: "https://failuremodes.dev" # the base hostname & protocol for your site, e.
 twitter_username: electron0zero
 
 # pages linked on top header
+# NOTE: items are rendered in the order here
 header_pages:
+ - pages/stories.md
+ - pages/talks.md
  - pages/blog_posts.md
+ - pages/systems.md
  - pages/projects.md
  - pages/research.md
- - pages/stories.md
- - pages/systems.md
- - pages/talks.md
 
 # Build settings
 theme: minima
