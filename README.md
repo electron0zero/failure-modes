@@ -1,7 +1,7 @@
-## failure-modes - [failuremodes.dev](failuremodes.dev)
+## failure-modes
 Curated list of failures in software systems, and other literature around the same topic.
 
-See [failuremodes.dev](failuremodes.dev) for more details
+See [failuremodes.dev](https://failuremodes.dev) for more details
 
 ### Questions, or concerns?
 Send DM to [@electron0zero](https://twitter.com/electron0zero)
