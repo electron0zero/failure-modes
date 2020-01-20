@@ -4,11 +4,11 @@ layout: home
 
 # Welcome to Failure Modes :wave:
 
-## What? :grey_question:
+## What :grey_question:
 Failure Modes is a curated list of resources around how modern and complex software systems fail.
 We have resources centered around failures and failures modes in software systems.
 
-## Why? :thinking:
+## Why :thinking:
 Running things in production is hard and running distributed systems is harder.
 
 It's an effort to curate resources and stories from the community, to learn and get better at running large scale software in production.
