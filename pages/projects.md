@@ -5,4 +5,4 @@ permalink: /projects/
 ---
 
 - [Chaos Toolkit](https://github.com/chaostoolkit)
-- [chaos monkey - Netflix](https://github.com/Netflix/chaosmonkey)
+- [Chaos Monkey - Netflix](https://github.com/Netflix/chaosmonkey)

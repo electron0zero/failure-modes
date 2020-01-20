@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-Talks on how systems fail, and how we can build better systems
+Talks on how systems fail, and how we can build better systems -
 
 - [Debugging Under Fire: Keep your Head when Systems have Lost their Mind - Bryan Cantrill](https://www.youtube.com/watch?v=30jNsCVLpAE)
 - [Bryan Cantrill - Docker in Production: Tales From the Engine Room](https://www.youtube.com/watch?v=0T2XFSALOaU)
