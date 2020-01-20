@@ -5,7 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col one-half">
-      <h2 class="footer-heading">{{ site.footerTitle | escape }}</h2>
+      <h2 class="footer-heading">{{ site.footer_title | escape }}</h2>
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -22,11 +22,13 @@
         <p>{{ site.description | escape }}</p>
       </div>
 
-      <div class="footer-col one-half">
+<!--       <div class="footer-col one-half">
         {%- include social.html -%}
-      </div>
+      </div> -->
+    <div class="footer-col one-half">
+      <p>Want to extend this collection, Send <a href="https://github.com/{{ site.github_repo }}">Pull Request</a>  :raised_hands: </p>
     </div>
-
+    </div>
   </div>
 
 </footer>

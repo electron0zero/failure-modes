@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Failure Modes
-footerTitle: Supported by Clarisights
+title: "Failure Modes :boom:"
+footer_title: >-
+  Supported by Clarisights :sparkles:
 description: >- # this means to ignore newlines until "baseurl:"
-  Collection of how and why software systems fail
+  Collection of how and why software systems fail :boom:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://failuremodes.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: electron0zero
+github_repo: electron0zero/failure-modes
 
 google_analytics: UA-156554456-1
 sitemap: true

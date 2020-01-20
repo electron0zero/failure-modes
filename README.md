@@ -1,9 +1,10 @@
 ## failure-modes - [failuremodes.dev](failuremodes.dev)
 Curated list of failures in software systems, and other literature around the same topic.
 
-### Want to learn more and contribute, see [about](/about.md) page
-### Current list, See [index](/index.md) page
+See [failuremodes.dev](failuremodes.dev) for more details
 
+### Questions, or concerns?
+Send DM to [@electron0zero](https://twitter.com/electron0zero)
 
 #### running locally
 This site is built using jekyll, so you need to install it to run it locally
