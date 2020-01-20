@@ -4,7 +4,7 @@ title: Stories
 permalink: /stories/
 ---
 
-Postmortems/Incident Reports/War Stories from real world failures - 
+Postmortems/Incident Reports/War Stories from real world failures -
 
 
 ## Cloudflare

@@ -27,6 +27,7 @@ url: "https://failuremodes.dev" # the base hostname & protocol for your site, e.
 twitter_username: electron0zero
 
 google_analytics: UA-156554456-1
+sitemap: true
 
 # pages linked on top header
 # NOTE: items are rendered in the order here
@@ -43,6 +44,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
 
