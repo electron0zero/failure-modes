@@ -16,7 +16,7 @@ It's an effort to curate resources and stories from the community, to learn and 
 ## Failure Modes: Meetup :busts_in_silhouette:
 We also run a bi-monthly meetup in Bangalore where we gather, discuss and learn from our failures, send us a DM on twitter to get an invite :-)
 
-For more information, see announcement [blog post](link)
+For more information, see announcement [blog post](https://blog.clarisights.com/failure-modes-meetup)
 
 ## Contributing :books:
 Please send [Pull Request](https://github.com/electron0zero/failure-modes) to extend this collection.
