@@ -18,3 +18,6 @@ Postmortems/Incident Reports/War Stories from real world failures -
 
 ## Google Cloud
 - [An update on Sunday’s service disruption - June 3, 2019](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption)
+
+## Bungie
+- [ Destiny 2 Outage and Rollback - Feb 12, 2020](https://www.bungie.net/en/Explore/Detail/News/48723)
