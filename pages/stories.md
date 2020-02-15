@@ -21,3 +21,7 @@ Postmortems/Incident Reports/War Stories from real world failures -
 
 ## Bungie
 - [ Destiny 2 Outage and Rollback - Feb 12, 2020](https://www.bungie.net/en/Explore/Detail/News/48723)
+
+
+## Netflix
+- [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19) ([Thread Reader link](https://threadreaderapp.com/thread/1228495222658613250.html))
