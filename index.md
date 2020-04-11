@@ -26,4 +26,4 @@ It can be anything from incident postmortems, blog posts, projects, talks, tweet
 Huge thanks to our [contributors](https://github.com/electron0zero/failure-modes/graphs/contributors) :bowing_man: :bowing_woman: :tada:
 
 ## Contact :email:
-Send us a DM on twitter [@electron0zero](https://twitter.com/electron0zero) or [@clarisights](https://twitter.com/clarisights)
+Send us a DM on twitter [@electron0zero](https://twitter.com/electron0zero)
