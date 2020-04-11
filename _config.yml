@@ -20,9 +20,9 @@
 
 title: "Failure Modes :boom:"
 footer_title: >-
-  Supported by Clarisights :sparkles:
-description: >- # this means to ignore newlines until "baseurl:"
-  Collection of how and why software systems fail :boom:
+ Collection of how and why software systems fail :boom:
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Collection of how and why software systems fail :boom:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://failuremodes.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: electron0zero/failure-modes

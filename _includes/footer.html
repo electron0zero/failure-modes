@@ -4,30 +4,30 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
+      <div class="footer-col">
       <h2 class="footer-heading">{{ site.footer_title | escape }}</h2>
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
+<!--        <ul class="contact-list">-->
+<!--          <li class="p-name">-->
+<!--            {%- if site.author -%}-->
+<!--              {{ site.author | escape }}-->
+<!--            {%- endif -%}-->
+<!--            </li>-->
+<!--            {%- if site.email -%}-->
+<!--            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>-->
+<!--            {%- endif -%}-->
+<!--        </ul>-->
+<!--      </div>-->
+
+      <div class="footer-heading">
+<!--        <p>{{ site.description | escape }}</p>-->
+        <p>Want to extend this collection, Send <a href="https://github.com/{{ site.github_repo }}">Pull Request</a>  :raised_hands: </p>
       </div>
 
-      <div class="footer-col one-half">
-        <p>{{ site.description | escape }}</p>
-      </div>
-
-<!--       <div class="footer-col one-half">
-        {%- include social.html -%}
-      </div> -->
-    <div class="footer-col one-half">
-      <p>Want to extend this collection, Send <a href="https://github.com/{{ site.github_repo }}">Pull Request</a>  :raised_hands: </p>
-    </div>
+<!--      <div class="footer-col one-half">-->
+<!--        {%- include social.html -%}-->
+<!--      </div>-->
+<!--    <div class="footer-col">-->
+<!--    </div>-->
     </div>
   </div>
 
