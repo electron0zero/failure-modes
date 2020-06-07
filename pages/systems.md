@@ -4,7 +4,7 @@ title: Systems
 permalink: /systems/
 ---
 
-Real world failure stories and incident postmortems of widely used systems - 
+Real world failure stories and incident postmortems of widely used systems
 
 ## PostgreSQL
 - [Transaction ID wraparound outage at mandrill](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)

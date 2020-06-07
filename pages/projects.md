@@ -4,6 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-- [Chaos Toolkit](https://github.com/chaostoolkit)
-- [Chaos Monkey - Netflix](https://github.com/Netflix/chaosmonkey)
-- [Learning from Incidents in Software](https://www.learningfromincidents.io/)
+### [Chaos Toolkit](https://github.com/chaostoolkit)
+The Open Source Platform for Chaos Engineering
+
+### [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
+Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+
+### [Learning from Incidents in Software](https://www.learningfromincidents.io/)
+Incidents are costly. Without spending time analyzing and determining the conditions that exist in order for an
+incident to take place, we won't learn how to successfully remove nor recover from these conditions in the future.
+
+Let's help each other learn.
+
+### [SNAFUcatchers ](https://www.snafucatchers.com/)
+A consortium of industry leaders and researchers united in the common cause of understanding and coping with the
+immense levels of complexity involved in the operation of critical digital services.
