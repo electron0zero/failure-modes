@@ -16,6 +16,6 @@ incident to take place, we won't learn how to successfully remove nor recover fr
 
 Let's help each other learn.
 
-### [SNAFUcatchers ](https://www.snafucatchers.com/)
+### [SNAFU catchers ](https://www.snafucatchers.com/)
 A consortium of industry leaders and researchers united in the common cause of understanding and coping with the
 immense levels of complexity involved in the operation of critical digital services.
