@@ -19,3 +19,11 @@ Let's help each other learn.
 ### [SNAFU catchers ](https://www.snafucatchers.com/)
 A consortium of industry leaders and researchers united in the common cause of understanding and coping with the
 immense levels of complexity involved in the operation of critical digital services.
+
+### [Resilience engineering papers](https://github.com/lorin/resilience-engineering)
+Contains notes about people active in resilience engineering, as well as
+some influential researchers who are no longer with us
+
+
+### [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
+A compiled list of links to public failure stories related to Kubernetes.
