@@ -12,3 +12,4 @@ Talks on how systems fail, and how we can build better systems -
 - ["I See What You Mean" by Peter Alvaro](https://www.youtube.com/watch?v=R2Aa4PivG0g)
 - [Orchestrated Chaos: Applying Failure Testing Research at Scale](https://www.youtube.com/watch?v=QOTNBKx9Irc)
 - [Orchestrating Chaos Applying Database Research in the Wild - Peter Alvaro](https://www.youtube.com/watch?v=YplkQu6a80Q)
+- [Doing Site Reliability Engineering (SRE) the Right Way](https://www.youtube.com/watch?v=eKff1yqq0OM&list=WL&index=11)
