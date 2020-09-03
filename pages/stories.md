@@ -43,6 +43,12 @@ and [Twitter Thread](https://twitter.com/copyconstruct/status/126098888039785676
 ### Twitter
 - [An update on our security incident - social engineering attack, July 2020](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 
+### Verizon
+- [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/)
+
+### Level 3 Communications (CenturyLink)
+- [August 30th 2020: Analysis of CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
+
 ### Independent Stories
 
 - [Debugging a misbehaving distributed system, by Erin](https://twitter.com/erincandescent/status/1281280157073002496),  alt:[Threadreader](https://threadreaderapp.com/thread/1281280157073002496.html)
