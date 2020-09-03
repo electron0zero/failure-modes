@@ -22,3 +22,7 @@ we can build better systems -
 - [Doing Site Reliability Engineering (SRE) the Right Way](https://www.youtube.com/watch?v=eKff1yqq0OM&list=WL&index=11)
 
 - [Testing Cloud-Native Databases with Chaos Mesh - Siddon Tang](https://www.youtube.com/watch?v=FIB1qvLHYsw)
+
+- [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q)
+
+- [How AWS Minimizes the Blast Radius of Failures](https://www.youtube.com/watch?v=swQbA4zub20)
