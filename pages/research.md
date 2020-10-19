@@ -17,3 +17,5 @@ Research on failures and how to test, build and operate reliable systems -
 - [Trade-offs under pressure: heuristics and observations of teams resolving internet service outages (Part II) - the morning paper](https://blog.acolyer.org/2020/01/24/trade-offs-under-pressure-part-2/)
 
 - [Report from the SNAFU catchers Workshop on Coping With Complexity](https://snafucatchers.github.io/)
+
+- [How Complex Systems Fail -  Richard I. Cook](https://how.complexsystems.fail/), [Original pdf](https://www.gwern.net/docs/technology/2000-cook.pdf)
