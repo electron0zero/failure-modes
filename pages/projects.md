@@ -38,3 +38,9 @@ on Kubernetes environments.
 
 ### [Debugging stories - Dan Luu](https://github.com/danluu/debugging-stories)
 Collection of links to various debugging stories.
+
+### [A List of Post-mortems! - Dan Luu](https://github.com/danluu/post-mortems)
+A collection of postmortems.
+
+### [Testing Distributed Systems](https://github.com/asatarin/testing-distributed-systems)
+Curated list of resources on testing distributed systems 
