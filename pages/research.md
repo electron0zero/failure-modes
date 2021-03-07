@@ -19,3 +19,12 @@ Research on failures and how to test, build and operate reliable systems -
 - [Report from the SNAFU catchers Workshop on Coping With Complexity](https://snafucatchers.github.io/)
 
 - [How Complex Systems Fail -  Richard I. Cook](https://how.complexsystems.fail/), [Original pdf](https://www.gwern.net/docs/technology/2000-cook.pdf)
+
+- **Fault Isolation using Shuffule Sharding**
+  - [AWS re:Invent 2018: How AWS Minimizes the Blast Radius of Failures (ARC338)](https://www.youtube.com/watch?v=swQbA4zub20)
+  - [Shuffle Sharding: Massive and Magical Fault Isolation](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
+  - [Shuffle Sharding - Cortex](https://cortexmetrics.io/docs/guides/shuffle-sharding/)
+  - [Level 300: Fault Isolation with Shuffle Sharding](https://wellarchitectedlabs.com/reliability/300_labs/300_fault_isolation_with_shuffle_sharding/)
+  - [Patterns for the Distributed Systems in Cloud — Part 1](https://medium.com/@vagees/patterns-for-the-distributed-systems-in-cloud-part-1-b51dc454f0c7)
+  - [Uno, DDoS, Tres — The magic of Shuffle sharding](https://hamzahabdulla1.medium.com/uno-ddos-tres-the-magic-of-shuffle-sharding-13d6c9d3a974)
+  - [Great thread from Colm MacCárthaigh](https://twitter.com/colmmacc/status/1034492056968736768), alt: [thread reader](https://threadreaderapp.com/thread/1034492056968736768.html)
