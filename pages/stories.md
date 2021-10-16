@@ -33,10 +33,10 @@ relevant twitter [thread 1](https://twitter.com/copyconstruct/status/13387163069
 - [Summary of the Amazon Kinesis Event in the Northern Virginia (US-EAST-1) Region - November, 25th 2020](https://aws.amazon.com/message/11201/), summary [thread](https://twitter.com/GergelyOrosz/status/1337871810738655235) of the incident. alt: [Threadreader link](https://threadreaderapp.com/thread/1337869823204847616.html)
 
 ### Bungie
-- [ Destiny 2 Outage and Rollback - Feb 12, 2020](https://www.bungie.net/en/Explore/Detail/News/48723)
+- [Destiny 2 Outage and Rollback - Feb 12, 2020](https://www.bungie.net/en/Explore/Detail/News/48723)
 
 ### Fastly
-- [Summary of June 8 outage | Fastly](https://www.fastly.com/blog/summary-of-june-8-outage) - June 8, 2021 global outage
+- [Summary of June 8 outage - Fastly](https://www.fastly.com/blog/summary-of-june-8-outage) - June 8, 2021 global outage
 
 
 ### Netflix
