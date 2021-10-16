@@ -44,3 +44,5 @@ A collection of postmortems.
 
 ### [Testing Distributed Systems](https://github.com/asatarin/testing-distributed-systems)
 Curated list of resources on testing distributed systems 
+
+### [k6 - A modern load testing tool](https://github.com/grafana/k6)

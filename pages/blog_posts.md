@@ -17,3 +17,5 @@ Blog Posts on failures, reliability, testing and other relevant topics
 - [Lessons learned in incident management - Dropbox](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management)
 
 - [Post Mortem - The Cloudflare Blog](https://blog.cloudflare.com/tag/postmortem), list postmortems from cloudflare
+
+- [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
