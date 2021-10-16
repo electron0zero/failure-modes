@@ -17,6 +17,12 @@ Postmortems/Incident Reports/War Stories from real world failures
 
 ### Grafana Labs
 - [How a GCP Persistent Disk Incident Snowballed into a 23-Hour Outage -- and Taught Us Some Important Lessons](https://grafana.com/blog/2020/01/23/how-a-gcp-persistent-disk-incident-snowballed-into-a-23-hour-outage-and-taught-us-some-important-lessons/)
+- [How we responded to a 2-hour outage in our Grafana Cloud Hosted Prometheus service](https://grafana.com/blog/2021/03/26/how-we-responded-to-a-2-hour-outage-in-our-grafana-cloud-hosted-prometheus-service/)
+- [How a production outage in Grafana Cloud's Hosted Prometheus service was caused by a bad etcd client setup](https://grafana.com/blog/2020/04/07/how-a-production-outage-in-grafana-clouds-hosted-prometheus-service-was-caused-by-a-bad-etcd-client-setup/)
+
+### DataSpring
+- [Data center and tornado](https://www.dataspring.cz/datacentrum-a-tornado/) - website is in Czech, use a translation service to read it. [archive.today link](http://archive.today/fWE85)
+  - This is story of how an data center dealt with tornado, good reminder for offsite backups, diaster recovery plan, regular checks on DR dry runs.
 
 ### Google Cloud
 - [An update on Sunday’s service disruption - June 3, 2019](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption)
@@ -28,6 +34,9 @@ relevant twitter [thread 1](https://twitter.com/copyconstruct/status/13387163069
 
 ### Bungie
 - [ Destiny 2 Outage and Rollback - Feb 12, 2020](https://www.bungie.net/en/Explore/Detail/News/48723)
+
+### Fastly
+- [Summary of June 8 outage | Fastly](https://www.fastly.com/blog/summary-of-june-8-outage) - June 8, 2021 global outage
 
 
 ### Netflix
@@ -41,6 +50,11 @@ relevant twitter [thread 1](https://twitter.com/copyconstruct/status/13387163069
 - [Users are unable to connect to Slack - Tuesday May 12, 2020](https://status.slack.com/2020-05-12),
 and [Twitter Thread](https://twitter.com/copyconstruct/status/1260988880397856769) by copyconstruct
 - [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
+- [May 12, 2020 Outage - A Terrible, Horrible, No-Good, Very Bad Day at Slack - Slack Engineering](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
+
+### Salesforce
+- [Multi-Instance Service Disruption on May 11-12, 2021](https://help.salesforce.com/s/articleView?id=000358392&type=1)
+  - [That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix • The Register](https://www.theregister.com/2021/05/19/salesforce_root_cause/) - in the news
 
 ### Indian Registry for Internet Names and Numbers (IRINN)
 - [Missing IRINN route objects & outage! - 6 July 2020, Anurag Bhatia](https://anuragbhatia.com/2020/07/networking/isp-column/missing-irinn-route-objects-outage/)
@@ -60,11 +74,6 @@ and [Twitter Thread](https://twitter.com/copyconstruct/status/126098888039785676
   - [What Happened to Facebook, Instagram, WhatsApp? Krebs on Security](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
   - [Why was Facebook down for five hours? - YouTube](https://www.youtube.com/watch?v=-wMU8vmfaYo) - Ben Eater explains the facebook outage in details with a demo
   - This outage has side effects on whole internet, most common one was ISPs getting DoSed with DNS queries for facebook domains.
-
-
-
-
-
 
 ### Verizon
 - [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/)
