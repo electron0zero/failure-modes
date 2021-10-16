@@ -22,7 +22,7 @@ Postmortems/Incident Reports/War Stories from real world failures
 
 ### DataSpring
 - [Data center and tornado](https://www.dataspring.cz/datacentrum-a-tornado/) - website is in Czech, use a translation service to read it. [archive.today link](http://archive.today/fWE85)
-  - This is story of how an data center dealt with tornado, good reminder for offsite backups, diaster recovery plan, regular checks on DR dry runs.
+  - This is story of how an data center dealt with tornado, good reminder verify your offsite backups, diaster recovery plan, and conduct diaster recovery dry runs.
 
 ### Google Cloud
 - [An update on Sunday’s service disruption - June 3, 2019](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption)
