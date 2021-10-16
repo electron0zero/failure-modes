@@ -51,6 +51,21 @@ and [Twitter Thread](https://twitter.com/copyconstruct/status/126098888039785676
 ### Twitter
 - [An update on our security incident - social engineering attack, July 2020](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 
+### Facebook
+- October 4, 2021 Facebook Group (Facebook, Instagram, WhatsApp, Oculus) outage
+  - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
+  - [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
+  - [Update about the October 4th outage - Facebook Engineering](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
+  - [More details about the October 4 outage - Facebook Engineering](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+  - [What Happened to Facebook, Instagram, WhatsApp? Krebs on Security](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
+  - [Why was Facebook down for five hours? - YouTube](https://www.youtube.com/watch?v=-wMU8vmfaYo) - Ben Eater explains the facebook outage in details with a demo
+  - This outage has side effects on whole internet, most common one was ISPs getting DoSed with DNS queries for facebook domains.
+
+
+
+
+
+
 ### Verizon
 - [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/)
 
