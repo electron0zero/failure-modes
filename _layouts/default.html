@@ -2,6 +2,12 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+  <!--  Add Hovering anchor tag heading in Jekyll - https://mrprajesh.co.in/blog/hovering-anchor-tags-headings.html#have-customized-it  -->
+  <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+  <script>
+    anchors.options.placement = 'left';
+    anchors.add();
+  </script>
 
   <body>
 
