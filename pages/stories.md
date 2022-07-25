@@ -63,6 +63,7 @@ Postmortems/Incident Reports/War Stories from real-world failures
 
 ### Independent Stories
 - [Debugging a misbehaving distributed system, by Erin](https://twitter.com/erincandescent/status/1281280157073002496),  alt:[Threadreader](https://threadreaderapp.com/thread/1281280157073002496.html)
+- [Ask HN: Tell me an engineering war story from your career](https://news.ycombinator.com/item?id=13987098)
 
 ### Indian Registry for Internet Names and Numbers (IRINN)
 - [Missing IRINN route objects & outage! - 6 July 2020, Anurag Bhatia](https://anuragbhatia.com/2020/07/networking/isp-column/missing-irinn-route-objects-outage/)
