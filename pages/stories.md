@@ -47,6 +47,10 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [October 21 post-incident analysis](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
 - [April service disruptions analysis - May 22, 2020](https://github.blog/2020-05-22-april-service-disruptions-analysis/)
 
+### GitLab
+- [GitLab.com database incident - January 31st 2017](https://about.gitlab.com/blog/2017/02/01/gitlab-dot-com-database-incident/)
+   - [Postmortem of database outage of January 31](https://about.gitlab.com/blog/2017/02/10/postmortem-of-database-outage-of-january-31/)
+
 ### Google Cloud
 - [An update on Sunday’s service disruption - June 3, 2019](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption)
 - [Google OAuth access was unavailable - December 14, 2020](https://status.cloud.google.com/incident/zall/20013)
