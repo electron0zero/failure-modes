@@ -70,6 +70,8 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [Global: Experiencing Issue with Cloud networking - November 16, 2021](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
   - [HN Thread](https://news.ycombinator.com/item?id=29243617)
   - [A bug introduced 6 months ago brought Google's Cloud Load Balancer to its knees](https://www.theregister.com/2021/11/23/google_outage/)
+- [London (europe-west2) cooling system failure - July 19, 2022](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
+  - Oracle Cloud also saw a cooling system failure on the same day in London Data Center
 
 ### Grafana Labs
 - [How a GCP Persistent Disk Incident Snowballed into a 23-Hour Outage -- and Taught Us Some Important Lessons](https://grafana.com/blog/2020/01/23/how-a-gcp-persistent-disk-incident-snowballed-into-a-23-hour-outage-and-taught-us-some-important-lessons/)
@@ -88,6 +90,11 @@ Postmortems/Incident Reports/War Stories from real-world failures
 
 ### Netflix
 - [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19). [Thread Reader link](https://threadreaderapp.com/thread/1228495222658613250.html)
+
+### Oracle Cloud
+- [Datacenter cooling infrastructure failed in UK South - July 19, 2022](https://ocistatus.oraclecloud.com/#/incidents/ocid1.oraclecloudincident.oc1.phx.amaaaaaavwew44aa7zoskanlspjh4ll6wxhwxrbkbed4d4cnupxexzqzvlyq)
+  - Following unseasonably high temperatures in the UK South (London) region, two cooler units in the data center experienced a failure when they were required to operate above their design limits. As a result, temperatures in the data center began to climb causing a subset of Compute infrastructure to go into protective shut down.
+  - Google Cloud also had cooling related failure in London (europe-west2)
 
 ### Roblox
 - [Roblox 73-hour outage - October 28th, 2021](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
