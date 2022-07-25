@@ -10,6 +10,13 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [Salt Incident: May 3rd, 2020 Retrospective and Update](https://blog.algolia.com/salt-incident-may-3rd-2020-retrospective-and-update/)
 - [May 30 SSL incident](https://www.algolia.com/blog/engineering/may-30-ssl-incident/)
 
+### Atlassian
+- [multi product multi week outage - April 4th, 2022](https://www.atlassian.com/engineering/april-2022-outage-update)
+  - [Day 7 of the great Atlassian outage: IT giant still struggling to restore access](https://www.theregister.com/2022/04/11/atlassian_still_down/)
+
+### Authzed
+- [Post-Mortem: Feb 16 2022](https://authzed.com/blog/post-mortem-feb-2022/)
+
 ### AWS
 - [Summary of the Amazon Kinesis Event in the Northern Virginia (US-EAST-1) Region - November, 25th 2020](https://aws.amazon.com/message/11201/)
   - Summary [Tweet thread](https://twitter.com/GergelyOrosz/status/1337871810738655235) of the incident. [Threadreader link](https://threadreaderapp.com/thread/1337869823204847616.html)
@@ -21,11 +28,15 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 - [Cloudflare outage on July 17, 2020](https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/)
 - [A Byzantine failure in the real world - Cloudflare API availability incident on 2020-11-02](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/), [Twitter thread](https://twitter.com/HenryR/status/1333336495260745729)
+- [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 
 ### DataSpring
 - [Datacenter and tornado](https://www.dataspring.cz/datacentrum-a-tornado/)
   - Website is in Czech, use a translation service to read it. [archive.today link](http://archive.today/fWE85)
   - This is a story of how a data center dealt with a tornado, a good reminder to verify your offsite backups, a disaster recovery plan, and conduct disaster recovery dry runs.
+
+### Deno
+- [May 30 incident update - May 30, 2022](https://deno.com/blog/2022-05-30-outage-post-mortem)
 
 ### Facebook
 - October 4, 2021, Facebook Group (Facebook, Instagram, WhatsApp, Oculus) outage
@@ -46,6 +57,7 @@ Postmortems/Incident Reports/War Stories from real-world failures
 ### GitHub
 - [October 21 post-incident analysis](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
 - [April service disruptions analysis - May 22, 2020](https://github.blog/2020-05-22-april-service-disruptions-analysis/)
+- [An update on recent service disruptions - March 16, 2022](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 
 ### GitLab
 - [GitLab.com database incident - January 31st 2017](https://about.gitlab.com/blog/2017/02/01/gitlab-dot-com-database-incident/)
@@ -55,6 +67,9 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [An update on Sunday’s service disruption - June 3, 2019](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption)
 - [Google OAuth access was unavailable - December 14, 2020](https://status.cloud.google.com/incident/zall/20013)
   - Relevant Twitter [thread 1](https://twitter.com/copyconstruct/status/1338716306963456000) and [thread 2](https://twitter.com/copyconstruct/status/1340140498418208770)
+- [Global: Experiencing Issue with Cloud networking - November 16, 2021](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
+  - [HN Thread](https://news.ycombinator.com/item?id=29243617)
+  - [A bug introduced 6 months ago brought Google's Cloud Load Balancer to its knees](https://www.theregister.com/2021/11/23/google_outage/)
 
 ### Grafana Labs
 - [How a GCP Persistent Disk Incident Snowballed into a 23-Hour Outage -- and Taught Us Some Important Lessons](https://grafana.com/blog/2020/01/23/how-a-gcp-persistent-disk-incident-snowballed-into-a-23-hour-outage-and-taught-us-some-important-lessons/)
@@ -74,6 +89,9 @@ Postmortems/Incident Reports/War Stories from real-world failures
 ### Netflix
 - [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19). [Thread Reader link](https://threadreaderapp.com/thread/1228495222658613250.html)
 
+### Roblox
+- [Roblox 73-hour outage - October 28th, 2021](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
+
 ### Rogers Communications
 - [Rogers Communications outage in Canada - July 8, 2022](https://blog.cloudflare.com/cloudflares-view-of-the-rogers-communications-outage-in-canada/)
   - [Causes - Wikipedia](https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage#Causes)
@@ -87,6 +105,7 @@ Postmortems/Incident Reports/War Stories from real-world failures
 and [Twitter Thread](https://twitter.com/copyconstruct/status/1260988880397856769) by copyconstruct
 - [Slack’s Outage on January 4th, 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 - [May 12, 2020 Outage - A Terrible, Horrible, No-Good, Very Bad Day at Slack - Slack Engineering](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
+- [Double Trouble with Datastores - Slack’s Incident o February 22, 2022](https://slack.engineering/slacks-incident-on-2-22-22/)
 
 ### Twitter
 - [An update on our security incident - social engineering attack, July 2020](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
