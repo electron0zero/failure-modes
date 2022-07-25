@@ -69,6 +69,10 @@ Postmortems/Incident Reports/War Stories from real-world failures
 ### Netflix
 - [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19). [Thread Reader link](https://threadreaderapp.com/thread/1228495222658613250.html)
 
+### Rogers Communications
+- [Rogers Communications outage in Canada - July 8, 2022](https://blog.cloudflare.com/cloudflares-view-of-the-rogers-communications-outage-in-canada/)
+  - [Causes - Wikipedia](https://en.wikipedia.org/wiki/2022_Rogers_Communications_outage#Causes)
+
 ### Salesforce
 - [Multi-Instance Service Disruption on May 11-12, 2021](https://help.salesforce.com/s/articleView?id=000358392&type=1)
   - [That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix • The Register](https://www.theregister.com/2021/05/19/salesforce_root_cause/) - in the news
