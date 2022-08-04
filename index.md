@@ -16,8 +16,11 @@ to learn and get better at running large scale software in production.
 See announcement [blog post](https://blog.clarisights.com/failure-modes-meetup)
 
 ## Contributing
-Please send [Pull Request](https://github.com/electron0zero/failure-modes) to extend this collection.
+Observed an interesting failure mode in your day to day job, report by [creating an issue](https://github.com/electron0zero/failure-modes/issues/new) and tell us what happened? how it happened? and how you recovered from it.
 
+Wrote a blogpost about a failure you saw in production? [open an issue](https://github.com/electron0zero/failure-modes/issues/new) with blogpost link and I will add it to the website.
+
+Saw something intesting about failure modes on the internet? [open an issue](https://github.com/electron0zero/failure-modes/issues/new) and share the link.
 It can be anything from incident postmortems, blog posts, projects, talks, tweets, research, etc.
 
 Huge thanks to our [contributors](https://github.com/electron0zero/failure-modes/graphs/contributors) :bowing_man: :bowing_woman: :tada:
