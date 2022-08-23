@@ -18,6 +18,7 @@ Real world failure stories and incident postmortems of widely used systems
 ## Kubernetes
 - [Compilation of public failure/horror stories related to Kubernetes](https://github.com/hjacobs/kubernetes-failure-stories)
 - [10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille](https://www.youtube.com/watch?v=QKI-JRs2RIE)
+- [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performances](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html), also see [DNS Lookups in Kubernetes](https://mrkaran.dev/posts/ndots-kubernetes/)
 
 ## YugabyteDB
 - [How Plume Handled Billions of Operations Per Day Despite an AWS Zone Outage](https://blog.yugabyte.com/how-plume-handled-billions-of-operations-per-day-despite-an-aws-zone-outage/)
