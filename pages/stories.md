@@ -94,10 +94,10 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [Missing IRINN route objects & outage! - 6 July 2020, Anurag Bhatia](https://anuragbhatia.com/2020/07/networking/isp-column/missing-irinn-route-objects-outage/)
 
 ### KLAYswap
-- [KLAYswap Incident Report (Feb 03, 2022)](https://medium.com/klayswap/klayswap-incident-report-feb-03-2022-70ff124aed6b), also see a more details analysis [Post Mortem of KlaySwap Incident through BGP Hijacking | EN](https://medium.com/s2wblog/post-mortem-of-klayswap-incident-through-bgp-hijacking-en-3ed7e33de600)
+- [KLAYswap Incident Report - Feb 03, 2022](https://medium.com/klayswap/klayswap-incident-report-feb-03-2022-70ff124aed6b), also see a more details analysis [Post Mortem of KlaySwap Incident through BGP Hijacking - EN](https://medium.com/s2wblog/post-mortem-of-klayswap-incident-through-bgp-hijacking-en-3ed7e33de600)
 
 ### Level 3 Communications (CenturyLink)
-- [August 30th, 2020: Analysis of CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
+- [August 30th, 2020: Analysis of CenturyLink/Level 3 Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
 
 ## Loom.com
 - [In Place AWS Elasticache Redis Upgrade went wrong](https://twitter.com/vhmth/status/1599133796091461632)
