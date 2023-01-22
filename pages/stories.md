@@ -30,6 +30,9 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [A Byzantine failure in the real world - Cloudflare API availability incident on 2020-11-02](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/), [Twitter thread](https://twitter.com/HenryR/status/1333336495260745729)
 - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 
+### Celer Bridge
+- [Celer Network Bridge dapp incident analysis by Coinbase](https://www.coinbase.com/blog/celer-bridge-incident-analysis)
+
 ### DataSpring
 - [Datacenter and tornado](https://www.dataspring.cz/datacentrum-a-tornado/)
   - Website is in Czech, use a translation service to read it. [archive.today link](http://archive.today/fWE85)
@@ -37,6 +40,9 @@ Postmortems/Incident Reports/War Stories from real-world failures
 
 ### Deno
 - [May 30 incident update - May 30, 2022](https://deno.com/blog/2022-05-30-outage-post-mortem)
+
+## DoorDash
+- [How to Handle Kubernetes Health Checks - health checks outage on Black Friday](https://doordash.engineering/2022/08/09/how-to-handle-kubernetes-health-checks/)
 
 ### Facebook
 - October 4, 2021, Facebook Group (Facebook, Instagram, WhatsApp, Oculus) outage
@@ -77,19 +83,33 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [How a GCP Persistent Disk Incident Snowballed into a 23-Hour Outage -- and Taught Us Some Important Lessons](https://grafana.com/blog/2020/01/23/how-a-gcp-persistent-disk-incident-snowballed-into-a-23-hour-outage-and-taught-us-some-important-lessons/)
 - [How we responded to a 2-hour outage in our Grafana Cloud Hosted Prometheus service](https://grafana.com/blog/2021/03/26/how-we-responded-to-a-2-hour-outage-in-our-grafana-cloud-hosted-prometheus-service/)
 - [How a production outage in Grafana Cloud's Hosted Prometheus service was caused by a bad etcd client setup](https://grafana.com/blog/2020/04/07/how-a-production-outage-in-grafana-clouds-hosted-prometheus-service-was-caused-by-a-bad-etcd-client-setup/)
+- [How adding Kubernetes label selectors caused an outage in Grafana Cloud Logs — and how we resolved it](https://grafana.com/blog/2022/08/31/how-adding-kubernetes-label-selectors-caused-an-outage-in-grafana-cloud-logs-and-how-we-resolved-it/)
 
 ### Independent Stories
 - [Debugging a misbehaving distributed system, by Erin](https://twitter.com/erincandescent/status/1281280157073002496),  alt:[Threadreader](https://threadreaderapp.com/thread/1281280157073002496.html)
 - [Ask HN: Tell me an engineering war story from your career](https://news.ycombinator.com/item?id=13987098)
+- [Impact of an upstream outage - chain of issues due to launchpad outage](https://github.com/electron0zero/failure-modes/issues/58)
 
 ### Indian Registry for Internet Names and Numbers (IRINN)
 - [Missing IRINN route objects & outage! - 6 July 2020, Anurag Bhatia](https://anuragbhatia.com/2020/07/networking/isp-column/missing-irinn-route-objects-outage/)
 
+### KLAYswap
+- [KLAYswap Incident Report (Feb 03, 2022)](https://medium.com/klayswap/klayswap-incident-report-feb-03-2022-70ff124aed6b), also see a more details analysis [Post Mortem of KlaySwap Incident through BGP Hijacking | EN](https://medium.com/s2wblog/post-mortem-of-klayswap-incident-through-bgp-hijacking-en-3ed7e33de600)
+
 ### Level 3 Communications (CenturyLink)
 - [August 30th, 2020: Analysis of CenturyLink/Level(3) Outage](https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/)
 
+## Loom.com
+- [In Place AWS Elasticache Redis Upgrade went wrong](https://twitter.com/vhmth/status/1599133796091461632)
+
 ### Netflix
 - [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19). [Thread Reader link](https://threadreaderapp.com/thread/1228495222658613250.html)
+
+### Nomad Bridge
+- [Nomad Bridge incident analysis by Coinbase](https://www.coinbase.com/blog/nomad-bridge-incident-analysis)
+
+### n8n
+- [Ask HN: Azure has run out of compute – anyone else affected?](https://news.ycombinator.com/item?id=33743567)
 
 ### Oracle Cloud
 - [Datacenter cooling infrastructure failed in UK South - July 19, 2022](https://ocistatus.oraclecloud.com/#/incidents/ocid1.oraclecloudincident.oc1.phx.amaaaaaavwew44aa7zoskanlspjh4ll6wxhwxrbkbed4d4cnupxexzqzvlyq)
@@ -106,6 +126,9 @@ Postmortems/Incident Reports/War Stories from real-world failures
 ### Salesforce
 - [Multi-Instance Service Disruption on May 11-12, 2021](https://help.salesforce.com/s/articleView?id=000358392&type=1)
   - [That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix • The Register](https://www.theregister.com/2021/05/19/salesforce_root_cause/) - in the news
+
+## Stripe
+- [Stripe down for for all those with Stripe Tax enabled](https://news.ycombinator.com/item?id=32558191#32558635), and status updates on [@stripestatus twitter page](https://twitter.com/stripestatus/status/1561809071061155841)
 
 ### Slack
 - [Users are unable to connect to Slack - Tuesday, May 12, 2020](https://status.slack.com/2020-05-12),
