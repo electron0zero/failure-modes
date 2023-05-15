@@ -4,7 +4,11 @@ title: Learn
 permalink: /learn/
 ---
 
-# Blog Posts
+## Learn about building resilient systems
+
+Collection of resources to learn about failures, and failure modes of software systems.
+
+## Blog Posts
 
 Blog Posts on failures, reliability, testing and other relevant topics
 
@@ -22,7 +26,32 @@ Blog Posts on failures, reliability, testing and other relevant topics
 
 - [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
 
-# Tools & Projects
+## Talks
+
+Talks on how systems fail, demo of systems, and other wisdom on how
+we can build better systems -
+
+- [Debugging Under Fire: Keep your Head when Systems have Lost their Mind - Bryan Cantrill](https://www.youtube.com/watch?v=30jNsCVLpAE)
+
+- [Bryan Cantrill - Docker in Production: Tales From the Engine Room](https://www.youtube.com/watch?v=0T2XFSALOaU)
+
+- [Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe](https://www.youtube.com/watch?v=obB2IvCv-K0)
+
+- ["I See What You Mean" by Peter Alvaro](https://www.youtube.com/watch?v=R2Aa4PivG0g)
+
+- [Orchestrated Chaos: Applying Failure Testing Research at Scale](https://www.youtube.com/watch?v=QOTNBKx9Irc)
+
+- [Orchestrating Chaos Applying Database Research in the Wild - Peter Alvaro](https://www.youtube.com/watch?v=YplkQu6a80Q)
+
+- [Doing Site Reliability Engineering (SRE) the Right Way](https://www.youtube.com/watch?v=eKff1yqq0OM&list=WL&index=11)
+
+- [Testing Cloud-Native Databases with Chaos Mesh - Siddon Tang](https://www.youtube.com/watch?v=FIB1qvLHYsw)
+
+- [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q)
+
+- [How AWS Minimizes the Blast Radius of Failures](https://www.youtube.com/watch?v=swQbA4zub20)
+
+## Tools & Projects
 
 Tools and projects focused on failures, and failure modes of software systems.
 
@@ -68,7 +97,7 @@ Curated list of resources on testing distributed systems
 ### [k6 - A modern load testing tool](https://github.com/grafana/k6)
 
 
-# Research
+## Research
 
 Research on failures and how to test, build and operate reliable systems -
 
@@ -86,7 +115,7 @@ Research on failures and how to test, build and operate reliable systems -
 
 - [How Complex Systems Fail -  Richard I. Cook](https://how.complexsystems.fail/), [Original pdf](https://www.gwern.net/docs/technology/2000-cook.pdf)
 
-- **Fault Isolation using Shuffule Sharding**
+### Fault Isolation using Shuffule Sharding
   - [AWS re:Invent 2018: How AWS Minimizes the Blast Radius of Failures (ARC338)](https://www.youtube.com/watch?v=swQbA4zub20)
   - [Shuffle Sharding: Massive and Magical Fault Isolation](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
   - [Shuffle Sharding - Cortex](https://cortexmetrics.io/docs/guides/shuffle-sharding/)
@@ -96,23 +125,23 @@ Research on failures and how to test, build and operate reliable systems -
   - [Great thread from Colm MacCárthaigh](https://twitter.com/colmmacc/status/1034492056968736768), alt: [thread reader](https://threadreaderapp.com/thread/1034492056968736768.html)
 
 
-# Systems
+## Systems
 
 Real world failure stories and incident postmortems of widely used systems
 
-## PostgreSQL
+### PostgreSQL
 - [Transaction ID wraparound outage at mandrill](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
 - [Transaction ID wraparound outage at sentry](https://blog.sentry.io/2015/07/23/transaction-id-wraparound-in-postgres)
 
-## Kafka
+### Kafka
 - [Kafkapocalypse: a postmortem on our service outage](https://blog.parse.ly/post/1738/kafkapocalypse/)
 - [Stories from the Front: Lessons Learned from Supporting Apache Kafka](https://www.confluent.io/blog/stories-front-lessons-learned-supporting-apache-kafka/)
 - [How to Lose Messages on a Kafka Cluster - Part 1 ](https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
 
-## Kubernetes
+### Kubernetes
 - [Compilation of public failure/horror stories related to Kubernetes](https://github.com/hjacobs/kubernetes-failure-stories)
 - [10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille](https://www.youtube.com/watch?v=QKI-JRs2RIE)
 - [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performances](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html), also see [DNS Lookups in Kubernetes](https://mrkaran.dev/posts/ndots-kubernetes/)
 
-## YugabyteDB
+### YugabyteDB
 - [How Plume Handled Billions of Operations Per Day Despite an AWS Zone Outage](https://blog.yugabyte.com/how-plume-handled-billions-of-operations-per-day-despite-an-aws-zone-outage/)

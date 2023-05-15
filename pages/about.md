@@ -4,25 +4,25 @@ title: About
 permalink: /about/
 ---
 
-# About Failure Modes
-
-## What?
+## What is Failure modes?
 
 Failure modes is community of software practitioners that likes share and discuss about the failure modes they have seen in real life.
 
-We have ocessonal Meetups in Bangalore, India. Meetups are invite only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure an safe space to share failiures. See [Meetup](/meetup/) page for more details.
+We have ocessonal Meetups in Bangalore, India. Meetups are invite only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure an safe space to share failiures. 
 
-This website is a collection of literature on how and why software systems fail :boom:
+See [Meetup](/meetup/) page for more details about meetup.
 
-## Why?
+Browse around this website, and expore the collection of incidents and [learn](/learn/) from literature 
+on how and why software systems fail, and how we can build better systems
+
+## Why Failure modes?
 
 Running things in production is hard and running distributed systems in production is extra hard.
 
 Failure Modes is an effort to curate resources and stories from the community,
 to learn and get better at running large scale software in production.
 
-
-## Contributing
+## Contributing to Failure modes
 
 - Observed an interesting failure mode in your day to day job?, saw and intesting post incident report from a company?, [create an issue](https://github.com/electron0zero/failure-modes/issues/new) to add that to our collection.
 
@@ -32,9 +32,6 @@ to learn and get better at running large scale software in production.
 
 Huge thanks to our [contributors](https://github.com/electron0zero/failure-modes/graphs/contributors) :bowing_man: :bowing_woman: :tada:
 
-## Keep in touch
+Have suggestions or questions, reach out to Suraj on twitter [@electron0zero](https://twitter.com/electron0zero) or open [an issue](https://github.com/electron0zero/failure-modes/issues)
 
-Open [an issue](https://github.com/electron0zero/failure-modes/issues) or a [discussion](https://github.com/electron0zero/failure-modes/discussions) to start a conversation.
-
-
-Have suggestions or questions, reach out to Suraj on twitter [@electron0zero](https://twitter.com/electron0zero)
+:boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom:
