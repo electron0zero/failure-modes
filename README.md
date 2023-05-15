@@ -12,4 +12,6 @@ This site is built using jekyll, so you need to install it to run it locally
 0. [install jekyll](https://jekyllrb.com/docs/installation/)
 1. git clone
 2. install gems `bundle install`
-3. start local server `jekyll server`
+3. start local server `jekyll server --trace`
+3. start local server with drafts `jekyll server --trace --drafts`
+

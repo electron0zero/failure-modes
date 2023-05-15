@@ -16,7 +16,8 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    <!-- from: https://github.com/allejo/jekyll-anchor-headings -->
+    {% include anchor_headings.html html=content anchorBody="#" %}
   </div>
 
   {%- if site.disqus.shortname -%}

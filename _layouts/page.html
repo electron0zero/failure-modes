@@ -8,7 +8,8 @@ layout: default
   </header>
 
   <div class="post-content">
-    {{ content }}
+    <!-- from: https://github.com/allejo/jekyll-anchor-headings -->
+    {% include anchor_headings.html html=content anchorBody="#" %}
   </div>
 
 </article>

@@ -29,25 +29,39 @@ github_repo: electron0zero/failure-modes
 
 google_analytics: UA-156554456-1
 sitemap: true
+show_excerpts: true
 
 # pages linked on top header
 # NOTE: items are rendered in the order here
 header_pages:
- - pages/stories.md
- - pages/talks.md
- - pages/blog_posts.md
- - pages/systems.md
- - pages/projects.md
- - pages/research.md
+ - pages/learn.md
+ - pages/meetup.md
+ - pages/about.md
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# posts to /incidents/ url parmalink
+# FIXME: find a better
+permalink: /:title
+
+# pagination config
+paginate: 2
+paginate_path: "/page:num/"
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
 
 plugins:
+  - jemoji
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jemoji
 
 
 # Exclude from processing.
