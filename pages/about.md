@@ -8,7 +8,13 @@ permalink: /about/
 
 Failure modes is community of software practitioners that likes share and discuss about the failure modes they have seen in real life.
 
-We have ocessonal Meetups in Bangalore, India. Meetups are invite only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure an safe space to share failiures. 
+We host meetup in Bangalore, India. Meetups are invite only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure an safe space to share failures. 
+
+> **Chatham House Rule:** When a meeting, or part thereof, is held under the Chatham House Rule,
+> participants are free to use the information received, but neither the identity nor the affiliation of
+> the speaker(s), nor that of any other participant, may be revealed.
+>
+> [Source - chathamhouse.org](https://www.chathamhouse.org/about/chatham-house-rule)
 
 See [Meetup](/meetup/) page for more details about meetup.
 
