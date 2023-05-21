@@ -46,7 +46,8 @@ kramdown:
 
 # posts to /incidents/ url parmalink
 # FIXME: find a better
-permalink: /:title
+permalink: /:year-:month-:day/:title/
+
 
 # pagination config
 paginate: 5
