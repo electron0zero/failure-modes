@@ -33,6 +33,9 @@ Postmortems/Incident Reports/War Stories from real-world failures
 ### Celer Bridge
 - [Celer Network Bridge dapp incident analysis by Coinbase](https://www.coinbase.com/blog/celer-bridge-incident-analysis)
 
+### DataDog
+- [Datadog Outage Affects Multiple Regions for a Day](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/), also see [reddit discussion](https://www.reddit.com/r/devops/comments/11luq9r/psa_datadog_outage/)
+
 ### DataSpring
 - [Datacenter and tornado](https://www.dataspring.cz/datacentrum-a-tornado/)
   - Website is in Czech, use a translation service to read it. [archive.today link](http://archive.today/fWE85)
