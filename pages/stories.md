@@ -13,6 +13,8 @@ Postmortems/Incident Reports/War Stories from real-world failures
 ### Atlassian
 - [multi product multi week outage - April 4th, 2022](https://www.atlassian.com/engineering/april-2022-outage-update)
   - [Day 7 of the great Atlassian outage: IT giant still struggling to restore access](https://www.theregister.com/2022/04/11/atlassian_still_down/)
+  - [Post Incident Review By Atlassian](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
+  - [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian?ref=blog.pragmaticengineer.com)
 
 ### Authzed
 - [Post-Mortem: Feb 16 2022](https://authzed.com/blog/post-mortem-feb-2022/)
