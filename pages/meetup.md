@@ -16,15 +16,20 @@ Interested in hosting one of our meetups in Bangalore? [Send me a direct message
 
 ## Next Meetup
 
+We are not sure when, join the [whatsapp community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop
+
+
+## Past Meetups
+
 ### Failure Modes - 3nd Meetup
+
+[Announcement Tweet](https://twitter.com/electron0zero/status/1746149250201715007)
+
+[Post Event Tweet](https://twitter.com/electron0zero/status/1748708768316051680)
 
 Date: 20th Jan, 2024
 
-Next meetup is on Saturday, Jan 20th, 2024, at 1:30 PM in and around Indiranagar, Bangalore.
-
-Please fill out [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdTisr4zhG8suMnCgRXgMXWObr4yHW6KzaaOj9p2B2bhjAwUA/viewform?usp=sf_link) to get an invite
-
-## Past Meetups
+Hosted by [IG Group](https://www.ig.com) with the help from [Srivatsa RV](https://twitter.com/rv_srivatsa), and [Mehul Ved](https://twitter.com/mehulved), thank you :bow:
 
 ### Failure Modes - 2nd Meetup
 
