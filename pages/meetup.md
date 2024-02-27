@@ -16,7 +16,15 @@ Interested in hosting one of our meetups in Bangalore? [Send me a direct message
 
 ## Next Meetup
 
-We are not sure when, join the [whatsapp community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop
+Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
+
+### Failure Modes - 4th Meetup
+
+Date: 17th March, 2024
+
+Please fill out [Failure Modes Meetup #4 - Registration](https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link) to get an invite..
+
+Hosted by [IG Group](https://www.ig.com) with the help from [Srivatsa RV](https://twitter.com/rv_srivatsa), and [Mehul Ved](https://twitter.com/mehulved), thank you :bow:
 
 
 ## Past Meetups
