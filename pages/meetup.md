@@ -16,7 +16,7 @@ Interested in hosting one of our meetups in Bangalore? [Send me a direct message
 
 ## Next Meetup
 
-Join the [whatsapp community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
+Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
 ### Failure Modes - 4th Meetup
 
