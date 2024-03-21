@@ -1,0 +1,51 @@
+---
+permalink: /meetup.ics
+# This is a workaround to avoid Jekyll processing this file
+# To add a new event, copy an existing event and update the details
+# Do not use newlines inside SUMMARY/DESCRIPTION fields.
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Failure Modes Meetups//EN
+
+BEGIN:VEVENT
+UID:1@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20200125
+SUMMARY:Failure Modes - 1st Meetup
+URL: https://twitter.com/electron0zero/status/1220285002329382912
+DESCRIPTION:Hosted By Clarisights. More details at https://web.archive.org/web/20201027065646/https://blog.clarisights.com/failure-modes-meetup/
+LOCATION:Clarisights Headquarters
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20230205
+SUMMARY:Failure Modes - 2nd Meetup
+URL: https://twitter.com/electron0zero/status/1620043535868366848
+DESCRIPTION:Hosted by DeepSource. More details at https://twitter.com/electron0zero/status/1622261243368337408?s=20
+LOCATION:DeepSource Headquarters
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20240120
+SUMMARY:Failure Modes - 3rd Meetup
+URL: https://twitter.com/electron0zero/status/1746149250201715007
+DESCRIPTION:Hosted by IG Group with the help from Srivatsa RV, and Mehul Ved. More details at https://twitter.com/electron0zero/status/1748708768316051680
+LOCATION:IG Group Headquarters
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20240317
+SUMMARY:Failure Modes - 4th Meetup
+DESCRIPTION:Hosted by IG Group with the help from Srivatsa RV, and Mehul Ved. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link
+LOCATION:IG Group Headquarters
+URL:https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link
+END:VEVENT
+
+END:VCALENDAR
