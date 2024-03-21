@@ -18,6 +18,13 @@ Interested in hosting one of our meetups in Bangalore? [Send me a direct message
 
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
+You can also subscribe to the Meetup Calendar at [meetup.ics](/meetup.ics). Use the following links:
+
+- [iOS/MacOS](webcal://failuremodes.dev/meetup.ics)
+- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=webcal%3A%2F%2Ffailuremodes.dev%2Fmeetup.ics)
+
+For other apps, you can import the generic [ICS file](https://failuremodes.dev/meetup.ics) directly.
+
 ### Failure Modes - 4th Meetup
 
 Date: 17th March, 2024
