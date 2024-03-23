@@ -25,16 +25,13 @@ You can also subscribe to the Meetup Calendar at [meetup.ics](/meetup.ics). Use 
 
 For other apps, you can import the generic [ICS file](https://failuremodes.dev/meetup.ics) directly.
 
+## Past Meetups
+
 ### Failure Modes - 4th Meetup
 
 Date: 17th March, 2024
 
-Please fill out [Failure Modes Meetup #4 - Registration](https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link) to get an invite..
-
 Hosted by [IG Group](https://www.ig.com) with the help from [Srivatsa RV](https://twitter.com/rv_srivatsa), and [Mehul Ved](https://twitter.com/mehulved), thank you :bow:
-
-
-## Past Meetups
 
 ### Failure Modes - 3nd Meetup
 
