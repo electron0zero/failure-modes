@@ -48,4 +48,14 @@ LOCATION:IG Group Headquarters
 URL:https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link
 END:VEVENT
 
+BEGIN:VEVENT
+UID:4@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20240824
+SUMMARY:Failure Modes - 5th Meetup
+DESCRIPTION:Hosted by Devfolio. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link
+LOCATION:IG Group Headquarters
+URL:https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link
+END:VEVENT
+
 END:VCALENDAR

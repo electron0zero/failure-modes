@@ -16,6 +16,12 @@ Interested in hosting one of our meetups in Bangalore? [Send me a direct message
 
 ## Next Meetup
 
+### Failure Modes - 5th Meetup
+
+Date: 24th August, 2024
+
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link)
+
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
 You can also subscribe to the Meetup Calendar at [meetup.ics](/meetup.ics). Use the following links:
@@ -24,6 +30,7 @@ You can also subscribe to the Meetup Calendar at [meetup.ics](/meetup.ics). Use 
 - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=webcal%3A%2F%2Ffailuremodes.dev%2Fmeetup.ics)
 
 For other apps, you can import the generic [ICS file](https://failuremodes.dev/meetup.ics) directly.
+
 
 ## Past Meetups
 
