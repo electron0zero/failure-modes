@@ -4,16 +4,16 @@ title: Stories
 permalink: /stories/
 ---
 
-Postmortems/Incident Reports/War Stories from real-world failures
+Postmortems, Incident Reports, and Stories from Real-World Failures.
 
 ### Algolia
 - [Salt Incident: May 3rd, 2020 Retrospective and Update](https://blog.algolia.com/salt-incident-may-3rd-2020-retrospective-and-update/)
 - [May 30 SSL incident](https://www.algolia.com/blog/engineering/may-30-ssl-incident/)
 
 ### Atlassian
-- [multi product multi week outage - April 4th, 2022](https://www.atlassian.com/engineering/april-2022-outage-update)
+- [Multi-Product, Multi-Week Outage - April 4th, 2022](https://www.atlassian.com/engineering/april-2022-outage-update)
   - [Day 7 of the great Atlassian outage: IT giant still struggling to restore access](https://www.theregister.com/2022/04/11/atlassian_still_down/)
-  - [Post Incident Review By Atlassian](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
+  - [Post-Incident Review by Atlassian](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
   - [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian?ref=blog.pragmaticengineer.com)
 
 ### Authzed
@@ -36,12 +36,12 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [Celer Network Bridge dapp incident analysis by Coinbase](https://www.coinbase.com/blog/celer-bridge-incident-analysis)
 
 ### DataDog
-- [Datadog Outage Affects Multiple Regions for a Day](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/), also see [reddit discussion](https://www.reddit.com/r/devops/comments/11luq9r/psa_datadog_outage/)
+- [Datadog Outage Affects Multiple Regions for a Day](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/), Also see [the Reddit discussion.](https://www.reddit.com/r/devops/comments/11luq9r/psa_datadog_outage/)
 
 ### DataSpring
 - [Datacenter and tornado](https://www.dataspring.cz/datacentrum-a-tornado/)
-  - Website is in Czech, use a translation service to read it. [archive.today link](http://archive.today/fWE85)
-  - This is a story of how a data center dealt with a tornado, a good reminder to verify your offsite backups, a disaster recovery plan, and conduct disaster recovery dry runs.
+  - The website is in Czech; use a translation service to read it. [archive.today link](http://archive.today/fWE85)
+  - This is a story of how a data center dealt with a tornado—a good reminder to verify your offsite backups, disaster recovery plan, and conduct disaster recovery dry runs.
 
 ### Deno
 - [May 30 incident update - May 30, 2022](https://deno.com/blog/2022-05-30-outage-post-mortem)
@@ -50,14 +50,14 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [How to Handle Kubernetes Health Checks - health checks outage on Black Friday](https://doordash.engineering/2022/08/09/how-to-handle-kubernetes-health-checks/)
 
 ### Facebook
-- October 4, 2021, Facebook Group (Facebook, Instagram, WhatsApp, Oculus) outage
+- October 4, 2021: Facebook Group (Facebook, Instagram, WhatsApp, Oculus) Outage.
   - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
   - [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
   - [Update about the October 4th outage - Facebook Engineering](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
   - [More details about the October 4 outage - Facebook Engineering](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
   - [What Happened to Facebook, Instagram, WhatsApp? Krebs on Security](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
-  - [Why was Facebook down for five hours? - YouTube](https://www.youtube.com/watch?v=-wMU8vmfaYo) - Ben Eater explains the facebook outage in detail with a demo
-  - This outage had side effects on the whole internet, the most common one was ISPs getting DoSed with DNS queries for facebook domains.
+  - [Why was Facebook down for five hours? - YouTube](https://www.youtube.com/watch?v=-wMU8vmfaYo) - Ben Eater explains the Facebook outage in detail with a demo.
+  - This outage had side effects on the whole internet; the most common one was ISPs getting DoSed with DNS queries for Facebook domains.
 
 ### Fastly
 - [Summary of June 8 outage - Fastly](https://www.fastly.com/blog/summary-of-june-8-outage) - June 8, 2021, global outage
@@ -82,7 +82,7 @@ Postmortems/Incident Reports/War Stories from real-world failures
   - [HN Thread](https://news.ycombinator.com/item?id=29243617)
   - [A bug introduced 6 months ago brought Google's Cloud Load Balancer to its knees](https://www.theregister.com/2021/11/23/google_outage/)
 - [London (europe-west2) cooling system failure - July 19, 2022](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
-  - Oracle Cloud also saw a cooling system failure on the same day in London Data Center
+  - Oracle Cloud also saw a cooling-related failure on the same day in the London Data Center.
 
 ### Grafana Labs
 - [How a GCP Persistent Disk Incident Snowballed into a 23-Hour Outage -- and Taught Us Some Important Lessons](https://grafana.com/blog/2020/01/23/how-a-gcp-persistent-disk-incident-snowballed-into-a-23-hour-outage-and-taught-us-some-important-lessons/)
@@ -108,7 +108,7 @@ Postmortems/Incident Reports/War Stories from real-world failures
 - [In Place AWS Elasticache Redis Upgrade went wrong](https://twitter.com/vhmth/status/1599133796091461632)
 
 ### Netflix
-- [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19). [Thread Reader link](https://threadreaderapp.com/thread/1228495222658613250.html)
+- [Containers taking out nodes - Twitter thread by Sargun Dhillon](https://twitter.com/sargun/status/1228495222658613250?s=19). [Threadreader link](https://threadreaderapp.com/thread/1228495222658613250.html)
 
 ### Nomad Bridge
 - [Nomad Bridge incident analysis by Coinbase](https://www.coinbase.com/blog/nomad-bridge-incident-analysis)
@@ -133,17 +133,17 @@ Postmortems/Incident Reports/War Stories from real-world failures
   - [That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix • The Register](https://www.theregister.com/2021/05/19/salesforce_root_cause/) - in the news
 
 ## Stripe
-- [Stripe down for for all those with Stripe Tax enabled](https://news.ycombinator.com/item?id=32558191#32558635), and status updates on [@stripestatus twitter page](https://twitter.com/stripestatus/status/1561809071061155841)
+- [Stripe was down for all those with Stripe Tax enabled](https://news.ycombinator.com/item?id=32558191#32558635), and status updates on [@stripestatus twitter page](https://twitter.com/stripestatus/status/1561809071061155841)
 
 ### Slack
 - [Users are unable to connect to Slack - Tuesday, May 12, 2020](https://status.slack.com/2020-05-12),
 and [Twitter Thread](https://twitter.com/copyconstruct/status/1260988880397856769) by copyconstruct
 - [Slack’s Outage on January 4th, 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 - [May 12, 2020 Outage - A Terrible, Horrible, No-Good, Very Bad Day at Slack - Slack Engineering](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
-- [Double Trouble with Datastores - Slack’s Incident o February 22, 2022](https://slack.engineering/slacks-incident-on-2-22-22/)
+- [Double Trouble with Datastores - Slack’s Incident on February 22, 2022](https://slack.engineering/slacks-incident-on-2-22-22/)
 
 ### Twitter
 - [An update on our security incident - social engineering attack, July 2020](https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html)
 
 ### Verizon
-- [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/)
+- [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/)

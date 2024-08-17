@@ -6,11 +6,11 @@ permalink: /learn/
 
 ## Learn about building resilient systems
 
-Collection of resources to learn about failures, and failure modes of software systems.
+A collection of resources to learn about failures and failure modes of software systems.
 
 ## Blog Posts
 
-Blog Posts on failures, reliability, testing and other relevant topics
+Blog posts on failures, reliability, testing, and other relevant topics
 
 - [Chaos Engineering — Review Lineage Driven Failure Injection(LDFI)](https://medium.com/becloudy/chaos-engineering-review-lineage-driven-failure-injection-ldfi-a1c831abe504)
 
@@ -22,14 +22,13 @@ Blog Posts on failures, reliability, testing and other relevant topics
 
 - [Lessons learned in incident management - Dropbox](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management)
 
-- [Post Mortem - The Cloudflare Blog](https://blog.cloudflare.com/tag/postmortem), list postmortems from cloudflare
+- [Post Mortem - The Cloudflare Blog](https://blog.cloudflare.com/tag/postmortem), lists postmortems from cloudflare
 
 - [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
 
 ## Talks
 
-Talks on how systems fail, demo of systems, and other wisdom on how
-we can build better systems -
+Talks on how systems fail, demos of systems, and other wisdom on how we can build better systems -
 
 - [Debugging Under Fire: Keep your Head when Systems have Lost their Mind - Bryan Cantrill](https://www.youtube.com/watch?v=30jNsCVLpAE)
 
@@ -53,7 +52,7 @@ we can build better systems -
 
 ## Tools & Projects
 
-Tools and projects focused on failures, and failure modes of software systems.
+Tools and projects focused on failures and failure modes of software systems.
 
 ### [Chaos Toolkit](https://github.com/chaostoolkit)
 The Open Source Platform for Chaos Engineering
@@ -63,8 +62,8 @@ Chaos Monkey is a resiliency tool that helps applications tolerate random instan
 
 ### [Learning from Incidents in Software](https://www.learningfromincidents.io/)
 Incidents are costly. Without spending time analyzing and determining the conditions
-that exist in order for an incident to take place, we won't learn how to successfully
-remove nor recover from these conditions in the future.
+that exist for an incident to take place, we won't learn how to successfully
+remove or recover from these conditions in the future.
 
 Let's help each other learn.
 
@@ -74,8 +73,8 @@ understanding and coping with the immense levels of complexity involved in the
 operation of critical digital services.
 
 ### [Resilience engineering papers](https://github.com/lorin/resilience-engineering)
-Contains notes about people active in resilience engineering, as well as
-some influential researchers who are no longer with us
+Contains notes about people active in resilience engineering as well as
+some influential researchers who are no longer with us.
 
 
 ### [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
@@ -86,7 +85,7 @@ Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos
 on Kubernetes environments.
 
 ### [Debugging stories - Dan Luu](https://github.com/danluu/debugging-stories)
-Collection of links to various debugging stories.
+A collection of links to various debugging stories.
 
 ### [A List of Post-mortems! - Dan Luu](https://github.com/danluu/post-mortems)
 A collection of postmortems.
@@ -99,7 +98,7 @@ Curated list of resources on testing distributed systems
 
 ## Research
 
-Research on failures and how to test, build and operate reliable systems -
+Research on failures and how to test, build, and operate reliable systems -
 
 - [Lineage-driven Fault Injection - the morning paper](https://blog.acolyer.org/2015/03/26/lineage-driven-fault-injection/)
 
@@ -113,7 +112,7 @@ Research on failures and how to test, build and operate reliable systems -
 
 - [Report from the SNAFU catchers Workshop on Coping With Complexity](https://snafucatchers.github.io/)
 
-- [How Complex Systems Fail -  Richard I. Cook](https://how.complexsystems.fail/), [Original pdf](https://www.gwern.net/docs/technology/2000-cook.pdf)
+- [How Complex Systems Fail -  Richard I. Cook](https://how.complexsystems.fail/), ([Original pdf](https://www.gwern.net/docs/technology/2000-cook.pdf))
 
 ### Fault Isolation using Shuffule Sharding
   - [AWS re:Invent 2018: How AWS Minimizes the Blast Radius of Failures (ARC338)](https://www.youtube.com/watch?v=swQbA4zub20)
@@ -127,7 +126,7 @@ Research on failures and how to test, build and operate reliable systems -
 
 ## Systems
 
-Real world failure stories and incident postmortems of widely used systems
+Real-world failure stories and incident postmortems of widely used systems
 
 ### PostgreSQL
 - [Transaction ID wraparound outage at mandrill](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
@@ -141,7 +140,7 @@ Real world failure stories and incident postmortems of widely used systems
 ### Kubernetes
 - [Compilation of public failure/horror stories related to Kubernetes](https://github.com/hjacobs/kubernetes-failure-stories)
 - [10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille](https://www.youtube.com/watch?v=QKI-JRs2RIE)
-- [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performances](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html), also see [DNS Lookups in Kubernetes](https://mrkaran.dev/posts/ndots-kubernetes/)
+- [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performance](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html), also see [DNS Lookups in Kubernetes](https://mrkaran.dev/posts/ndots-kubernetes/)
 
 ### YugabyteDB
 - [How Plume Handled Billions of Operations Per Day Despite an AWS Zone Outage](https://blog.yugabyte.com/how-plume-handled-billions-of-operations-per-day-despite-an-aws-zone-outage/)
