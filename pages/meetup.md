@@ -20,6 +20,8 @@ Are you interested in hosting one of our meetups in Bangalore? [Send me a direct
 
 Date: 24th August, 2024
 
+Next meetup is happening on Saturday, Aug. 24th, 2024, at 2:00 PM - 4:00 PM IST, around Indiranagar, Bangalore.
+
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link)
 
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
