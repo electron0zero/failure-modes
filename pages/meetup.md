@@ -31,7 +31,8 @@ For other apps, you can import the generic [ICS file](https://failuremodes.dev/m
 
 Date: 24th August, 2024
 
-Hosted by [Devfolio](https://devfolio.co/) and [Fold](https://fold.money/) with help from [Preet](https://x.com/TmPreet), [Denver](https://x.com/denverjude) and [Nemo](https://x.com/captn3m0)
+Hosted by [Devfolio](https://devfolio.co/) and [Fold](https://fold.money/) with help from [Preet](https://x.com/TmPreet), [Denver](https://x.com/denverjude) and [Nemo](https://x.com/captn3m0), thank you :bow:
+
 
 [Announcement Tweet](https://x.com/electron0zero/status/1824449911334535678)
 
