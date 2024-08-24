@@ -12,17 +12,9 @@ We meet whenever I have time to manage the logistics of the meetup and have a ve
 
 Meetups are invite-only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure a safe space to share failures.
 
-Are you interested in hosting one of our meetups in Bangalore? [Send me a direct message on Twitter](https://twitter.com/electron0zero).
+Are you interested in hosting one of our meetups in Bangalore? Drop a message in [Bangalore Meetup Group in our WhatsApp Community](https://chat.whatsapp.com/IhQ2ZnPRD5sCJ4E8myMBSN)
 
 ## Next Meetup
-
-### Failure Modes - 5th Meetup
-
-Date: 24th August, 2024
-
-Next meetup is happening on Saturday, Aug. 24th, 2024, at 2:00 PM - 4:00 PM IST, around Indiranagar, Bangalore.
-
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link)
 
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
@@ -33,8 +25,17 @@ You can also subscribe to the meetup calendar at [meetup.ics](/meetup.ics). Use 
 
 For other apps, you can import the generic [ICS file](https://failuremodes.dev/meetup.ics) directly.
 
-
 ## Past Meetups
+
+### Failure Modes - 5th Meetup
+
+Date: 24th August, 2024
+
+Hosted by [Devfolio](https://devfolio.co/) and [Fold](https://fold.money/) with help from [Preet](https://x.com/TmPreet), [Denver](https://x.com/denverjude) and [Nemo](https://x.com/captn3m0)
+
+[Announcement Tweet](https://x.com/electron0zero/status/1824449911334535678)
+
+[Post Event Tweet](https://x.com/electron0zero/status/1827331996248346913)
 
 ### Failure Modes - 4th Meetup
 

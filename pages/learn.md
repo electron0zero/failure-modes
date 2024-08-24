@@ -8,6 +8,13 @@ permalink: /learn/
 
 A collection of resources to learn about failures and failure modes of software systems.
 
+## Books
+
+Books for those who are inersted in Datacenters and Datacenter Design:
+
+- [The Practice of System and Network Administration - Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup](https://www.goodreads.com/book/show/564630.The_Practice_of_System_and_Network_Administration)
+- [The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines - Luiz André Barroso, Jimmy Clidaras, Urs Hölzle](https://research.google/pubs/the-datacenter-as-a-computer-an-introduction-to-the-design-of-warehouse-scale-machines-second-edition/), this book is open access, find the [PDF here](https://link.springer.com/content/pdf/10.1007/978-3-031-01761-2.pdf)
+
 ## Blog Posts
 
 Blog posts on failures, reliability, testing, and other relevant topics
@@ -49,6 +56,10 @@ Talks on how systems fail, demos of systems, and other wisdom on how we can buil
 - [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q)
 
 - [How AWS Minimizes the Blast Radius of Failures](https://www.youtube.com/watch?v=swQbA4zub20)
+
+- [SREcon24 Americas - It Is OK to Be Metastable](https://www.youtube.com/watch?v=8Uh2BHUmVUE)
+
+- [SREcon24 Americas - System Performance and Queuing Theory - Concepts and Application](https://www.youtube.com/watch?v=3at6ijBU2ug)
 
 ## Tools & Projects
 
