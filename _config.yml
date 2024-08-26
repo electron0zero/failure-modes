@@ -38,6 +38,7 @@ header_pages:
  - pages/learn.md
  - pages/meetup.md
  - pages/about.md
+ - pages/coc.md
 
 highlighter: rouge
 markdown: kramdown

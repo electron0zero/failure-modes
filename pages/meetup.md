@@ -14,6 +14,8 @@ Meetups are invite-only and follow [Chatham House Rule](https://en.wikipedia.org
 
 Are you interested in hosting one of our meetups in Bangalore? Drop a message in [Bangalore Meetup Group in our WhatsApp Community](https://chat.whatsapp.com/IhQ2ZnPRD5sCJ4E8myMBSN)
 
+Our Meetups and Community Spaces are governed by [Failure Modes Code of Conduct](/coc/)
+
 ## Next Meetup
 
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
