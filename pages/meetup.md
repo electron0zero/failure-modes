@@ -18,6 +18,15 @@ Our Meetups and Community Spaces are governed by [Failure Modes Code of Conduct]
 
 ## Next Meetup
 
+Next meetup is announced: 
+
+We are hosting Failure Modes Meetup #6 in on Saturday, Apr. 12th, 2025, at 11:00 PM - 2:00 PM IST,
+in and around Koramangala, Bangalore.
+
+[RSVP for invite](https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog)
+
+[Announcement Tweet](https://x.com/electron0zero/status/1909229792609657059)
+
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
 You can also subscribe to the meetup calendar at [meetup.ics](/meetup.ics). Use the following links:

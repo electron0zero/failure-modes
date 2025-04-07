@@ -54,8 +54,18 @@ DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20240824
 SUMMARY:Failure Modes - 5th Meetup
 DESCRIPTION:Hosted by Devfolio. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link
-LOCATION:IG Group Headquarters
+LOCATION:Devfolio
 URL:https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20250412
+SUMMARY:Failure Modes - 6th Meetup
+DESCRIPTION:Hosted by Hasura. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog
+LOCATION:The Terrace @ Hasura
+URL:https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog
 END:VEVENT
 
 END:VCALENDAR
