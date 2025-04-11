@@ -20,7 +20,7 @@ Our Meetups and Community Spaces are governed by [Failure Modes Code of Conduct]
 
 Next meetup is announced: 
 
-We are hosting Failure Modes Meetup #6 in on Saturday, Apr. 12th, 2025, at 11:00 PM - 2:00 PM IST,
+We are hosting Failure Modes Meetup #6 in on Saturday, Apr. 12th, 2025, at 11:00 AM - 2:00 PM IST,
 in and around Koramangala, Bangalore.
 
 [RSVP for invite](https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog)
