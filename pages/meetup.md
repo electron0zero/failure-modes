@@ -18,15 +18,6 @@ Our Meetups and Community Spaces are governed by [Failure Modes Code of Conduct]
 
 ## Next Meetup
 
-Next meetup is announced: 
-
-We are hosting Failure Modes Meetup #6 in on Saturday, Apr. 12th, 2025, at 11:00 AM - 2:00 PM IST,
-in and around Koramangala, Bangalore.
-
-[RSVP for invite](https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog)
-
-[Announcement Tweet](https://x.com/electron0zero/status/1909229792609657059)
-
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
 You can also subscribe to the meetup calendar at [meetup.ics](/meetup.ics). Use the following links:
@@ -38,7 +29,18 @@ For other apps, you can import the generic [ICS file](https://failuremodes.dev/m
 
 ## Past Meetups
 
-### Failure Modes - 5th Meetup
+### Failure Modes BLR - 6th Meetup
+
+Date: 12th April, 2025
+
+Hosted by [Hasura](https://hasura.io/) with help from Giri, [Rohan](https://x.com/rohankmr414) and [hashfyre](https://x.com/hashfyre), thank you :bow:
+
+
+[Announcement Tweet](https://x.com/electron0zero/status/1909229792609657059)
+
+[Post Event Tweet](https://x.com/electron0zero/status/1911751130314346611)
+
+### Failure Modes BLR - 5th Meetup
 
 Date: 24th August, 2024
 
@@ -55,7 +57,7 @@ Date: 17th March, 2024
 
 Hosted by [IG Group](https://www.ig.com) with help from [Srivatsa RV](https://twitter.com/rv_srivatsa), and [Mehul Ved](https://twitter.com/mehulved), thank you :bow:
 
-### Failure Modes - 3rd Meetup
+### Failure Modes BLR - 3rd Meetup
 
 [Announcement Tweet](https://twitter.com/electron0zero/status/1746149250201715007)
 
@@ -65,7 +67,7 @@ Date: 20th Jan, 2024
 
 Hosted by [IG Group](https://www.ig.com) with the help from [Srivatsa RV](https://twitter.com/rv_srivatsa), and [Mehul Ved](https://twitter.com/mehulved), thank you :bow:
 
-### Failure Modes - 2nd Meetup
+### Failure Modes BLR - 2nd Meetup
 
 [Announcement Tweet](https://twitter.com/electron0zero/status/1620043535868366848?s=20)
 
@@ -75,7 +77,7 @@ Date: 5th Feb, 2023
 
 Hosted by [DeepSource](https://deepsource.com/). thank you :bow:
 
-### Failure Modes - 1st Meetup
+### Failure Modes BLR - 1st Meetup
 
 [Announcement Tweet](https://twitter.com/electron0zero/status/1220285002329382912)
 
