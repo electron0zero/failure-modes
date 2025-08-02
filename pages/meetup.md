@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Meetup
+title: Meetup - Bangalore
 permalink: /meetup/
 ---
 
-## Failure Modes Meetup
+## Failure Modes Meetup - Bangalore
 
-We have occasional meetups in Bangalore, India.
+We have meetups in Bangalore and [Pune](/meetup-pune/), India.
 
-We meet whenever I have time to manage the logistics of the meetup and have a venue that can host us. :smile:
+We meet whenever organizers have time to manage the logistics of the meetup and have a venue that can host us. :smile:
 
 Meetups are invite-only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure a safe space to share failures.
 
-Are you interested in hosting one of our meetups in Bangalore? Drop a message in [Bangalore Meetup Group in our WhatsApp Community](https://chat.whatsapp.com/IhQ2ZnPRD5sCJ4E8myMBSN)
+Are you interested in hosting one of our meetups in Bangalore? Drop a message in [Bangalore Meetup Group in our Community](https://chat.whatsapp.com/IhQ2ZnPRD5sCJ4E8myMBSN)
 
 Our Meetups and Community Spaces are governed by [Failure Modes Code of Conduct](/coc/)
 

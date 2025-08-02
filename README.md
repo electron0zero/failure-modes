@@ -16,9 +16,9 @@ jekyll is based on Ruby so you need Ruby and Bundler installed on your system.
 5. Build website `rake build` or `jekyll build --trace` if don't have rake installed.
 6. Create a new post with `rake post "Title of post"`, it will create a new file in `_posts` directory with current date and title of post.
 
-### Questions, or concerns?
-Send DM to [@electron0zero](https://twitter.com/electron0zero)
+### Want to Help, or Questions, or concerns?
 
+Ask us about it in our [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro)
 
 ### Contributing
 
