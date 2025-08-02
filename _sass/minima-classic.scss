@@ -1,23 +1,20 @@
-@use "sass:color";
-@import "minima/custom-styles";
-
 @charset "utf-8";
 
 $brand-color:           #828282 !default;
-$brand-color-light:     color.adjust($brand-color, $lightness: 40%) !default;
-$brand-color-dark:      color.adjust($brand-color, $lightness: -25%) !default;
+$brand-color-light:     lighten($brand-color, 40%) !default;
+$brand-color-dark:      darken($brand-color, 25%) !default;
 
 $text-color:            #111 !default;
 $background-color:      #fdfdfd !default;
 $code-background-color: #eef !default;
 
 $link-base-color:       #2a7ae2 !default;
-$link-visited-color:    color.adjust($link-base-color, $lightness: -15%) !default;
+$link-visited-color:    darken($link-base-color, 15%) !default;
 
-$table-text-color:      color.adjust($text-color, $lightness: 18%) !default;
-$table-zebra-color:     color.adjust($brand-color, $lightness: 46%) !default;
-$table-header-bg-color: color.adjust($brand-color, $lightness: 43%) !default;
-$table-header-border:   color.adjust($brand-color, $lightness: 36%) !default;
+$table-text-color:      lighten($text-color, 18%) !default;
+$table-zebra-color:     lighten($brand-color, 46%) !default;
+$table-header-bg-color: lighten($brand-color, 43%) !default;
+$table-header-border:   lighten($brand-color, 36%) !default;
 $table-border-color:    $brand-color-light !default;
 
 
@@ -87,4 +84,7 @@ $table-border-color:    $brand-color-light !default;
 }
 
 // import skin-agnostic styles and override
-@import "minima/initialize";
+@import
+  "minima/initialize",
+  "minima/custom-styles"
+;
