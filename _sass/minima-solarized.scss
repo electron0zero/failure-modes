@@ -1,3 +1,6 @@
+@use "sass:color";
+@import "minima/custom-styles";
+
 @charset "utf-8";
 
 // Solarized skin
@@ -50,7 +53,7 @@ $sol-mono01:   $sol-base01;
 // ----------------------
 
 $brand-color:           $sol-mono1 !default;
-$brand-color-light:     mix($sol-mono1, $sol-mono3) !default;
+$brand-color-light:     color.mix($sol-mono1, $sol-mono3) !default;
 $brand-color-dark:      $sol-mono00 !default;
 
 $text-color:            $sol-mono01 !default;
@@ -58,10 +61,10 @@ $background-color:      $sol-mono3 !default;
 $code-background-color: $sol-mono2 !default;
 
 $link-base-color:       $sol-blue !default;
-$link-visited-color:    mix($sol-blue, $sol-mono00) !default;
+$link-visited-color:    color.mix($sol-blue, $sol-mono00) !default;
 
 $table-text-color:      $sol-mono00 !default;
-$table-zebra-color:     mix($sol-mono2, $sol-mono3) !default;
+$table-zebra-color:     color.mix($sol-mono2, $sol-mono3) !default;
 $table-header-bg-color: $sol-mono2 !default;
 $table-header-border:   $sol-mono1 !default;
 $table-border-color:    $sol-mono1 !default;
@@ -133,7 +136,4 @@ $table-border-color:    $sol-mono1 !default;
 }
 
 // import skin-agnostic styles and override
-@import
-  "minima/initialize",
-  "minima/custom-styles"
-;
+@import "minima/initialize";
