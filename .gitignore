@@ -6,3 +6,5 @@ vendor
 
 # IDE folders
 /.idea/
+.claude/
+/.vscode/
