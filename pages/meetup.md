@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meetup - Bangalore
+title: Bangalore Meetup
 permalink: /meetup/
 ---
 
@@ -8,7 +8,7 @@ permalink: /meetup/
 
 We have meetups in Bangalore and [Pune](/meetup-pune/), India.
 
-We meet whenever organizers have time to manage the logistics of the meetup and have a venue that can host us. :smile:
+We meet whenever  have time to manage the logistics of the meetup and have a venue that can host us. :smile:
 
 Meetups are invite-only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure a safe space to share failures.
 
@@ -34,7 +34,6 @@ For other apps, you can import the generic [ICS file](https://failuremodes.dev/m
 Date: 12th April, 2025
 
 Hosted by [Hasura](https://hasura.io/) with help from Giri, [Rohan](https://x.com/rohankmr414) and [hashfyre](https://x.com/hashfyre), thank you :bow:
-
 
 [Announcement Tweet](https://x.com/electron0zero/status/1909229792609657059)
 

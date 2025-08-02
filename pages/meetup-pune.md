@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meetup - Pune
+title: Pune Meetup
 permalink: /meetup-pune/
 ---
 
