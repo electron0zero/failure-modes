@@ -1,0 +1,153 @@
+---
+layout: default
+title: Stories
+---
+
+<h1>Incident Stories</h1>
+
+<p>Collection of real-world production failures, outages, and system incidents. Learn from the experiences of major technology companies and understand how complex systems fail.</p>
+
+<div class="post-list">
+  {% for post in paginator.posts %}
+    <article class="post-preview">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        {% if post.company %} • {{ post.company }}{% endif %}
+        {% if post.duration %} • {{ post.duration }}{% endif %}
+      </p>
+      
+      {% if post.tags.size > 0 %}
+        <div class="post-tags">
+          {% for tag in post.tags %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+      
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+    </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-link">← Previous</a>
+  {% else %}
+    <span class="pagination-link disabled">← Previous</span>
+  {% endif %}
+
+  <span class="pagination-info">
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-link">Next →</a>
+  {% else %}
+    <span class="pagination-link disabled">Next →</span>
+  {% endif %}
+</div>
+{% endif %}
+
+<style>
+.post-list {
+  margin: 2rem 0;
+}
+
+.post-preview {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.post-preview h3 {
+  margin-bottom: 0.5rem;
+}
+
+.post-preview h3 a {
+  text-decoration: none;
+  color: #333;
+}
+
+.post-preview h3 a:hover {
+  color: #007acc;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-tags {
+  margin: 0.5rem 0;
+}
+
+.tag {
+  display: inline-block;
+  background: #f0f0f0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  color: #666;
+}
+
+.post-excerpt {
+  margin: 0.5rem 0;
+  color: #555;
+}
+
+.read-more {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.pagination {
+  text-align: center;
+  margin: 2rem 0;
+  padding: 1rem 0;
+  border-top: 1px solid #eee;
+}
+
+.pagination-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #666;
+  transition: all 0.2s;
+}
+
+.pagination-link:hover {
+  background: #007acc;
+  color: white;
+  border-color: #007acc;
+}
+
+.pagination-link.disabled {
+  color: #ccc;
+  cursor: not-allowed;
+  background: #f8f8f8;
+}
+
+.pagination-link.disabled:hover {
+  background: #f8f8f8;
+  color: #ccc;
+  border-color: #ddd;
+}
+
+.pagination-info {
+  display: inline-block;
+  margin: 0 1rem;
+  color: #666;
+  font-weight: 500;
+}
+</style>

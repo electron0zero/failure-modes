@@ -8,7 +8,7 @@ permalink: /meetup/
 
 We have meetups in Bangalore and [Pune](/meetup-pune/), India.
 
-We meet whenever  have time to manage the logistics of the meetup and have a venue that can host us. :smile:
+We meet whenever the organizers have time to manage the logistics of the meetup and have a venue that can host us. :smile:
 
 Meetups are invite-only and follow [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) to ensure a safe space to share failures.
 
