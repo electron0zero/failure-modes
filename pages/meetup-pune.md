@@ -27,15 +27,14 @@ Our Meetups and Community Spaces are governed by [Failure Modes Code of Conduct]
 
 Join the [WhatsApp Community](https://chat.whatsapp.com/IQOeAnHctWu2FSbgZ0Brro) to stay in the loop.
 
+## Past Meetups
+
 ### Failure Modes Pune - 1st Meetup
 
 Date: 9th August, 2025
 
-Please fill out [Failure Modes - Pune Meetup #1 - Registration](https://forms.gle/65pAMk1LcXwRCH2e7) to get an invite..
-
 Hosted by [One2N](https://www.One2N.io), thank you :bow:
 
+[Announcement Tweet](https://x.com/chinmay185/status/1952661048856604907)
 
-## Past Meetups
-
-stay tuned, we are getting started
+[Post Event Tweet](https://x.com/chinmay185/status/1954140866760564836)
