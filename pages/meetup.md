@@ -29,6 +29,18 @@ For other apps, you can import the generic [ICS file](https://failuremodes.dev/m
 
 ## Past Meetups
 
+## Next Meetup
+
+Next meetup is announced: 
+
+We are hosting Failure Modes Meetup #7 in on Saturday, Jan. 17th, 2026, at 11:00 PM - 2:00 PM IST,
+in and around Koramangala, Bangalore.
+
+[RSVP for invite](https://docs.google.com/forms/d/e/1FAIpQLSddWxTTBZyosgr6_ecBaCe8V2tTTfPIU9LOpLFsOH7DcBLBnA/viewform?usp=dialog)
+
+[Announcement Tweet](https://x.com/electron0zero/status/2010648359636488538)
+
+
 ### Failure Modes BLR - 6th Meetup
 
 Date: 12th April, 2025
