@@ -12,60 +12,73 @@ BEGIN:VEVENT
 UID:1@failuremodes.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20200125
-SUMMARY:Failure Modes - 1st Meetup
+SUMMARY:Failure Modes Bangalore - 1st Meetup
 URL: https://twitter.com/electron0zero/status/1220285002329382912
 DESCRIPTION:Hosted By Clarisights. More details at https://web.archive.org/web/20201027065646/https://blog.clarisights.com/failure-modes-meetup/
 LOCATION:Clarisights Headquarters
+URL:https://failuremodes.dev/meetup/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:2@failuremodes.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20230205
-SUMMARY:Failure Modes - 2nd Meetup
+SUMMARY:Failure Modes Bangalore - 2nd Meetup
 URL: https://twitter.com/electron0zero/status/1620043535868366848
 DESCRIPTION:Hosted by DeepSource. More details at https://twitter.com/electron0zero/status/1622261243368337408?s=20
 LOCATION:DeepSource Headquarters
+URL:https://failuremodes.dev/meetup/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:3@failuremodes.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20240120
-SUMMARY:Failure Modes - 3rd Meetup
+SUMMARY:Failure Modes Bangalore - 3rd Meetup
 URL: https://twitter.com/electron0zero/status/1746149250201715007
 DESCRIPTION:Hosted by IG Group with the help from Srivatsa RV, and Mehul Ved. More details at https://twitter.com/electron0zero/status/1748708768316051680
 LOCATION:IG Group Headquarters
+URL:https://failuremodes.dev/meetup/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:4@failuremodes.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20240317
-SUMMARY:Failure Modes - 4th Meetup
+SUMMARY:Failure Modes Bangalore - 4th Meetup
 DESCRIPTION:Hosted by IG Group with the help from Srivatsa RV, and Mehul Ved. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link
 LOCATION:IG Group Headquarters
-URL:https://docs.google.com/forms/d/e/1FAIpQLScOgNnvHq_M9xxkq8e8jUQjQnjqhOX8JxFFJV-M1TMii6LQQQ/viewform?usp=sf_link
+URL:https://failuremodes.dev/meetup/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:4@failuremodes.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20240824
-SUMMARY:Failure Modes - 5th Meetup
+SUMMARY:Failure Modes Bangalore - 5th Meetup
 DESCRIPTION:Hosted by Devfolio. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link
 LOCATION:Devfolio
-URL:https://docs.google.com/forms/d/e/1FAIpQLSdy9KpO7lQr0kW6hMAYg544PfuUmi7qshhOPWws319bTsglrw/viewform?usp=sf_link
+URL:https://failuremodes.dev/meetup/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:4@failuremodes.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;VALUE=DATE:20250412
-SUMMARY:Failure Modes - 6th Meetup
+SUMMARY:Failure Modes Bangalore - 6th Meetup
 DESCRIPTION:Hosted by Hasura. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog
 LOCATION:The Terrace @ Hasura
-URL:https://docs.google.com/forms/d/e/1FAIpQLSdlT9l3RrNCLkqxenRQZUldQg9vQmmhw8DOicsNu478vyH2ag/viewform?usp=dialog
+URL:https://failuremodes.dev/meetup/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@failuremodes.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;VALUE=DATE:20260117
+SUMMARY:Failure Modes Bangalore - 7th Meetup
+DESCRIPTION:Hosted by Hasura. Please fill out the registration form to get an invite. More details at https://docs.google.com/forms/d/e/1FAIpQLSddWxTTBZyosgr6_ecBaCe8V2tTTfPIU9LOpLFsOH7DcBLBnA/viewform?usp=dialog
+LOCATION:The Terrace @ Hasura
+URL:https://failuremodes.dev/meetup/
 END:VEVENT
 
 END:VCALENDAR

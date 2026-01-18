@@ -29,16 +29,15 @@ For other apps, you can import the generic [ICS file](https://failuremodes.dev/m
 
 ## Past Meetups
 
-## Next Meetup
+### Failure Modes BLR - 7th Meetup
 
-Next meetup is announced: 
+Date: 17th Jan, 2025
 
-We are hosting Failure Modes Meetup #7 in on Saturday, Jan. 17th, 2026, at 11:00 PM - 2:00 PM IST,
-in and around Koramangala, Bangalore.
-
-[RSVP for invite](https://docs.google.com/forms/d/e/1FAIpQLSddWxTTBZyosgr6_ecBaCe8V2tTTfPIU9LOpLFsOH7DcBLBnA/viewform?usp=dialog)
+Hosted by [Hasura](https://hasura.io/) with help from Giri, [Rohan](https://x.com/rohankmr414) and supprot from [theonlynabarun](https://x.com/theonlynabarun) and [mehulved](https://x.com/mehulved), thank you :bow:
 
 [Announcement Tweet](https://x.com/electron0zero/status/2010648359636488538)
+
+[Post Event Tweet](https://x.com/electron0zero/status/2012880031291158754)
 
 
 ### Failure Modes BLR - 6th Meetup
