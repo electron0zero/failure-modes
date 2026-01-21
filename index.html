@@ -39,51 +39,14 @@ cover: false
         <p><a href="/learn">View Resources</a></p>
     </p>
 
+
     <h2>Contribute to Failure Modes</h2>
     <p>
         Have a story, postmortem, or resource to share? 
         <p><a href="https://github.com/electron0zero/failure-modes/issues/new" target="_blank">Submit it</a> to our collection.</p>
     </p>
 </body>
+
+
 </html>
 
-<main id="content" class="content" role="main">
-    {% for post in paginator.posts %}
-
-    <h1>Recent Posts :arrow_down:</h1>
-
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-
-            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
-                {{ post.date | date_to_string }}
-            </time>
-
-            {% if post.categories.size > 0 %}
-                <p>{{ post.categories | array_to_sentence_string | prepend: 'Categories: ' }}</p>
-            {% endif %}
-
-            {% if post.tags.size > 0 %}
-                <p>{{ post.tags | array_to_sentence_string | prepend: 'Tags: ' }}</p>
-            {% endif %}
-
-            {% if site.author %}
-                <img class="author-thumb" src="/assets/images/profile.jpg" alt="Author's profile picture" nopin="nopin" />
-                {{ site.author }}
-            {% endif %}
-
-        </header>
-        <section class="post-excerpt">
-            {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&#8617;</a>
-        </section>
-        <footer class="post-meta">
-        </footer>
-        <br>
-    </article>
-
-    {% endfor %}
-
-    {% include pagination.html %}
-
-</main>

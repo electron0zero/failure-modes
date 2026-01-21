@@ -34,7 +34,6 @@ show_excerpts: true
 # pages linked on top header
 # NOTE: items are rendered in the order here
 header_pages:
- - pages/stories.md
  - pages/learn.md
  - pages/meetup.md
  - pages/meetup-pune.md
@@ -47,14 +46,13 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-# posts to /incidents/ url parmalink
-# FIXME: find a better
-permalink: /:year-:month-:day/:title/
+# posts to /stories/ url permalink
+permalink: /stories/:title/
 
 
 # pagination config
-paginate: 5
-paginate_path: "/page:num/"
+paginate: 10
+paginate_path: "/stories/page:num/"
 excerpt_separator: <!--more-->
 
 # Build settings
